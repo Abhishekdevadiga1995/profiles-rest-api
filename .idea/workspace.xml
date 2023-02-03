@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e28c95-adff-4906-90e2-965262f6d72d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/profiles_api/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,10 +25,13 @@
         <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <first_editor relative-caret-position="515">
+                <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+                <folding>
+                  <element signature="e#0#40#0" expanded="true" />
+                </folding>
               </first_editor>
-              <second_editor />
+              <second_editor relative-caret-position="-154" />
             </state>
           </provider>
         </entry>
@@ -389,10 +388,13 @@
     <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <first_editor relative-caret-position="515">
+            <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+            <folding>
+              <element signature="e#0#40#0" expanded="true" />
+            </folding>
           </first_editor>
-          <second_editor />
+          <second_editor relative-caret-position="-154" />
         </state>
       </provider>
     </entry>
